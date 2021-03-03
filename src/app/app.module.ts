@@ -4,7 +4,6 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 
 import { SpreadSheetsModule } from '@grapecity/spread-sheets-angular';
-//import { SpreadSheetsModule } from 'src/component/spread-sheet-angular/gc.spread.sheets.angular';
 
 
 @NgModule({
