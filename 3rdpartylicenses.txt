@@ -518,6 +518,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 @grapecity/spread-sheets-angular
 Commercial
 
+@grapecity/spread-sheets-charts
+Commercial
+
 css-loader
 MIT
 Copyright JS Foundation and other contributors
